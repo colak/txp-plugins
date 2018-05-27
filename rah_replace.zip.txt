@@ -1,0 +1,51 @@
+# Name: rah_replace v0.4.2 (compressed)
+# Type: Public plugin
+# Search and replace
+# Author: Jukka Svahn
+# URL: http://rahforum.biz
+# Recommended load order: 5
+
+# .....................................................................
+# This is a plugin for Textpattern CMS - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+
+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
+qJkWAAA=
