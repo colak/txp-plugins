@@ -1,0 +1,41 @@
+# Name: jmd_count v0.1.1 (compressed)
+# Type: Public plugin
+# Count stuff.
+# Author: Jon-Michael Deldin
+# URL: http://jmdeldin.com
+# Recommended load order: 5
+
+# .....................................................................
+# This is a plugin for Textpattern CMS - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+
+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
