@@ -1,0 +1,21 @@
+# Name: abc_feed v0.1 (compressed)
+# Type: Public plugin
+# 
+# Author: Oleg
+# URL: 
+# Recommended load order: 5
+
+# .....................................................................
+# This is a plugin for Textpattern CMS - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+
+H4sIAAAAAAAAA3WSUW+CMBDHnyXxOxBiAppFQURZdXyFvWxPzpFCDySrhbRl2WL47msRUJft
+qb3//e7fy10x8jx0FmiFLIZPYG0FCpGFkzTOAIgO1yqs5bHkOlDYM4VcXz23T8Q1L7SiBH1s
+kPUJXBQl05GPLHfutQUesgiIlBeV7JJdhXJNS9I+vtK2HPJCSOBxiilNcPrh2H1H9oNpVxwk
+fMkYGLGn27ExNrKapdrT7DFnap7HxiinZYKpOekqFDsqMqcQAqTTi3u79T1MLyWjqz68eTCf
+zN/49p4duKEqTilgVle2Jpux0fzZaE/93/BEY3cNXPvSeaXWnJkqm8ccKopTcOzFLgcGHMuS
+79+jwyyaz3Zvi0GLFq9CT/JKRS/KusJSTZ3tbkBFTS4D1ZNuum3J76rdltqoq88AWSUnwDst
+6LSM4lzccqr0CLS6Wb36HifS8v4SWZt1EK4S7CckCIBkXpi5fgZLnOHH0A985dH8ACpTtuex
+AgAA
