@@ -1,0 +1,27 @@
+# Name: pap_contact_cleaner v0.1 (compressed)
+# Type: Public plugin
+# Prevent Spam through Zem Contact
+# Author: tranquillo
+# URL: http://www.seitenweberei.ch/
+# Recommended load order: 5
+
+# .....................................................................
+# This is a plugin for Textpattern CMS - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+
+H4sIAAAAAAAAA41UXW/aMBR9hl9xm1UNlbqEQFtYoEhTn/ZWqd3LXiInuSFWHTuzHShr+99n
+O0kLgkmTkHDO/fA5x74mcRTFryq+jj1OKvQWKo6+xV5N6iQTXJNMJxlDwlHa0G3skUaXwn1E
+49jTkvDfDWVM9EgbTxpJLTKZx16pdR2H4Xa7DRRSjXyLKUqkQVaGNmcWexuUigpuv6axNw4i
+1y2KvRxVJmmt++Ak9h4kbpBreKxJBbqUolmX8AsruG/52jyjJhO5UzObGNJDiWuqNMokI4yl
+JHse+VbiH6x6lYWQlX/lfyKBQy4X/1GrmrSi+rC6w0z9sGh4ZhXAiS1Hl/A6HA7OC4oshzvw
+lzndgNI7hnfehiqaUkb1LoaS5jlyb+UHBeV1o0e+xhe7Z10Kjv5VrUbd8vLK9w9/HR74y1RC
+eNyiIpS1HdzquEELm/rQsFv5i+FAom4kh5a30fj+b5mtE73QrMTsmfJ1YnsmvWwtaTX6JGBc
+28t09I9TO1XW4cE5bghriNv+7gLWqPcZdEEhRy45DOFHYa4OdqaCa62ASDRLxjAH0egrl9G1
+AHtWsBXc15AitJI05mfDAS1gdFLVmTlNH97e4LQSF758HQ4OyH9dAcnzA/s00Y0aRdaT9954
+53h30/WubufWTI79v4k9IfN2YA1202EFI2u1n2dKS2S1m6u5SViW0eqB1P0cwX0798vQ4Ma1
+Zb16KqmCmjVryi1LBXorgHJ3TRn2NmoBO9FIMBqSffuC3vUju09bffFlPolmC21P89PxYBnW
+H3SwZ2N4pUTZg+OgmFgnyrwO1xPXKt3BUykqouAxKyUxznz0MMp+KrLGPY2RocmN54zBiUcQ
+CimqU4FAv+igHa/hJIDvZhI2RKMT1jvGc9gSnZUOtAQhp4rUNZKWUff8VflN/9Zl1zfzyfWs
+GE/Ht9MsxVmRpul8RorpdDYdzwtv8f4XCxhSc8EFAAA=
