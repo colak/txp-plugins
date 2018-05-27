@@ -1,0 +1,67 @@
+# Name: sed_textile_upgrade v0.1.3 (compressed)
+# Type: Admin plugin
+# Facilitates textile upgrades to your article body and excerpt texts.
+# Author: Netcarver
+# URL: https://github.com/netcarver/sed_textile_upgrade
+# Recommended load order: 1
+
+# .....................................................................
+# This is a plugin for Textpattern CMS - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+
+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
+PfwHz3mMG+cbAAA=
