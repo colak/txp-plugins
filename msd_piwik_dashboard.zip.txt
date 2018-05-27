@@ -1,0 +1,60 @@
+# Name: msd_piwik_dashboard v0.2 (compressed)
+# Type: Admin plugin
+# Replace Textpattern's Visitor Log with your Piwik Dashboard.
+# Author: Matt Davis
+# URL: http://mattsdavis.com
+# Recommended load order: 5
+
+# .....................................................................
+# This is a plugin for Textpattern CMS - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+
+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
+DdeCHAAA
