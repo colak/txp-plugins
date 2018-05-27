@@ -1,0 +1,29 @@
+# Name: rah_swap v0.1 (compressed)
+# Type: Public plugin
+# 
+# Author: 
+# URL: 
+# Recommended load order: 5
+
+# .....................................................................
+# This is a plugin for Textpattern CMS - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+
+H4sIAAAAAAAAA6VVW2+bSBR+xr9iiqwCUWKD42wdvOm2SaVIq/SiTfsUVWiAAUYZA51LHG+U
+/94zF1zb20orlQfDnPOd79w9OE2S9Emk89Rv8Yr4S5EuUp/jJhNr3OvjH6mPlWw6rg9x6utX
+Eg/CTHG6o3iV+g+EC9q1+nSa+vEkMQZJ6pdEFJz20imdBTguupLsS+SmNxKwivX7LPU7XhLu
+ZGdOVjFci10cmDaEmbCT+RkE8+dffdOPRtOjoxE6Qv+4tFDPVE1bVHUcfSaPssdSEt6iq/e3
+E8Bp6BubHkJ/q/t7jG4fcNMaeYklQfDM4iQ5MRJGC9IKgq4/fEHXn24eZo7iqus3nNaNROFV
+pPGnu2SokbJPp1MoNYShVpOc/qutbixbiVQLCVtS0nLM0CeVg6sBgFydkXY3kK3X60ndqknH
+66kLS0zrnp3MJvGkkSsG2Olo5FWqLXQf0NDocAwlEMdoLBva1ugCtYqxaOQ9jTyvZl0O7scD
+VqMe+6Kq4YOKDHNJC0ayvCs3S4ALiUGAxiWpsGIyA6DjW4Jnj1Yo3NddbL0Zd96BpXOmqZ+h
+k1NL8QL6GgakaDqULIMoMoon8+txIhV0MwicjbWgQhBp87wLGG3vg6/R1qehdIghz7s9rAVb
+tCehrzXhGeG842H9+VGGAW0fMKNlBkac5kqSDM6KBMcIc443YfCkF+w5QBev0UEU0dKw7sVt
+A/cMEqoQGpII/Sq6barjrpeAZ29Ba41CzWNxaHgghiA4NgpOIOtgRxFbeZn/gBu5bpJVKUH4
+T7l6LMRPFU0n5L6CdQVmRjy4KxrMh1A0Qslq4ZQFo6SVmdn3YBtjdGwLGZnBgj3muID+QQGi
+7agVnWpd1yMYNZSgly9hNnP04nDsVhvxjWWCMFLIrMxhSHPgv775ePn25vYueHcZfD15rasY
+2VqDRwZraCZnbIp4QFWwTpDwlwyeG2w94hCyFe2B9dqQNXp3uTfHbkX/E7+NAWwSS8Xhs9cV
+dRZ7Yf8wAtTBovxuMjvr+7+ScmM/5iB5dtfGqjT/8aczuDbmSbkoyvNFFcf5LJ6T80Ucn58v
+SFEt5rNXcE88fwetcsO5xQYAAA==
