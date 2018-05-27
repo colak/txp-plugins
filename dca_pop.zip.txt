@@ -1,0 +1,27 @@
+# Name: dca_pop v0.1 (compressed)
+# Type: Public plugin
+# Creates sized popup windows for images stored in Textpattern
+# Author: Dean Allen
+# URL: http://textpattern.com
+# Recommended load order: 5
+
+# .....................................................................
+# This is a plugin for Textpattern CMS - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+
+H4sIAAAAAAAAA41UbW/TMBD+nP6Kw1S0RVH6srTb0rUSgp8whJAmVU7sJN4cO7KdlTH1v3N2
+MlZAIL757p577s5+zjRbLrNnm6UZUbThZGuzy4ywgh5a3XprkxHauVobbywXGfnEqYIPUnL1
+4unjh84I71mtMlI712bzuePfXEud40YlhW4G8kdurNAh+yIji2QZeJZYldvCiNYNwQ1SfzSc
+Om7Biu+cAbbUtXAUiumjhVIbEA2tfNhpg3Gh4Pa1pOfAsQrNwljraxxlNIrKThW+BAxDTscI
+t/HY1UJVMxhFz6MoqqTOqYQxUtWH0ujmYLR28Vg01YEJs0WIKGEq7IEaQ596jtkMsLqhhRts
+D4uiAfuGN61DpL9mRPoq0bjiDnZgacmxwHFK3pOYuG/tIcyFZw/eTULOhAS+E3Bp+TmhYP9N
+JxiSCfYLFRjuOqPQMTTqWZDwdRZvb2FAP7/g4eQ5egPutVBTQuL+NnwvBG4oOGoweXdHDrmk
+6uGOQG14iTZJfrva5OVqEzLHoGDJGOsnBKFxT6dVIUXx4JNj0msg0S1XU3w4m3jeGCZBIX1w
+guZRMFfvSDw+xiSuuahq5626p4xRblrKnBobG44So7nkExx1GKqkOPD2juz7FnqFxORmTvcE
+HTN/iafRaNCZe2qDzlDIi6C3jGjDuBl868FXSlrZcxym1lyGXbvYoPOm3X8RUkIRpA8UpFAP
+4DSe/twC72fCtpI+Aa5leOcEbmveH6HprIOaPnLIOVfQtVJThhyPAh8HUWfrMmQ4mt/M2/0o
+wj6+6g4KpO3w3blAvAlJXo2gy3AOSTH4VXQWBPuZ+9liIMNjbmC+h3dvN4stSjEbtg6hO7K8
+JuhfbSm0osAr5wE1P4OF8N9JwnqQuqt0ct9WA5nSodN/Uvo2hw+oYeFpLvDbSldFviqu05TT
+ImeXabpcsfUVTXlKV5eL9RXZnn4A3AzDSTAFAAA=
