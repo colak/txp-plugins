@@ -1,0 +1,73 @@
+# Name: rlt_article_image_selector v0.3 (compressed)
+# Type: Admin plugin
+# Quickly, add and remove images to an article image field.
+# Author: Richard Testani
+# URL: http://www.richtestani.com
+# Recommended load order: 5
+
+# .....................................................................
+# This is a plugin for Textpattern CMS - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+
+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
